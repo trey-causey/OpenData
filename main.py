@@ -1,5 +1,11 @@
 # This is a sample Python script.
+import pandas as pd
+import requests
+import json
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
